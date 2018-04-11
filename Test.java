@@ -3,6 +3,5 @@ public class Test {
 	{
 		System.out.println ("Changed to B");
 		System.out.println ("C line");
-		System.out.println ("D line added ");
 	}
 }
